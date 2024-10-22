@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ASHISH ADHIKARI</h1>
+<h1 align="center">Hi 👋, I'm ASHISH</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 <h3 align="center">Currently I'm studying in Chemical Engineering and Polymer Science at Shahjalal University of Science and Technology</h3>
 
