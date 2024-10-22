@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm ASHISH</h1>
+<div align="center">
+ 
+ 
+<img width="100%" src="https://github.com/ashish2026/ashish2026/blob/main/resource/Banner.jpg?raw=true" alt="ashish_cover" />
+</div>
+<h1 align="center">Hi <img src = "https://github.com/ashish2026/ashish2026/blob/main/resource/HI.gif?raw=true" width="50px" height="50px">, I'm ASHISH</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 <h3 align="center">Currently I'm studying in Chemical Engineering and Polymer Science at Shahjalal University of Science and Technology</h3>
 
@@ -75,3 +80,9 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish2026" alt="GitHub Streak" />
 </div>
+<div align="center">
+<h2 align="center">Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+<p><a href="https://buymeacoffee.com/ashishadhin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashish" /></a></p>
+</div>
+
+![Waves](https://raw.githubusercontent.com/ashish2026/ashish2026/24d7f5ab451e9b8ba5e2058bee10633c87f1514e/resource/wave_ashish.svg)
