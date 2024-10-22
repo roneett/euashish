@@ -4,7 +4,11 @@
 <img width="100%" src="https://github.com/ashish2026/ashish2026/blob/main/resource/Banner.jpg?raw=true" alt="ashish_cover" />
 </div>
 <h1 align="center">Hi <img src = "https://github.com/ashish2026/ashish2026/blob/main/resource/HI.gif?raw=true" width="50px" height="50px">, I'm ASHISH</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
+<h3 align="center">A passionate front-end developer and open source contributor on GitHub.</h3>
+<h5 align="center">
+ I love building web applications, collaborating with developers, and contributing to meaningful open-source projects.
+</h5>
+
 <h3 align="center">Currently I'm studying in Chemical Engineering and Polymer Science at Shahjalal University of Science and Technology</h3>
 
 <br>
