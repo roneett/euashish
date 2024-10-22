@@ -36,6 +36,10 @@
   <a href="https://www.youtube.com/c/YOUR_CHANNEL_NAME" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
+ <a href="mailto:contactashish2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20Me-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Me" />
+</a>
+
 </p>
 
 <br>
