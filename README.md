@@ -33,7 +33,7 @@
   <a href="https://facebook.com/aeuler" target="_blank">
     <img src="https://img.shields.io/badge/FB%20Profile-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Profile" />
   </a>
-  <a href="https://www.youtube.com/c/YOUR_CHANNEL_NAME" target="_blank">
+  <a href="https://www.youtube.com/c/ashish" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
  <a href="mailto:contactashish2003@gmail.com" target="_blank">
