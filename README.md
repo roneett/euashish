@@ -13,7 +13,7 @@
   <a href="https://twitter.com/megashish" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.npmjs.com/~eulerashish" target="_blank">
+  <a href="https://www.npmjs.com/~ashish2026" target="_blank">
     <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
   </a>
   <a href="https://codeforces.com/profile/ashish.adhikari" target="_blank">
