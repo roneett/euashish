@@ -89,15 +89,26 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish2026" alt="GitHub Streak" />
 </div>
+
 <div align="center">
-<h2 align="center">Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
-<p><a href="https://buymeacoffee.com/ashishadhin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashish" /></a></p>
+   <h2 align="center">
+      Support Me 
+      <img src="https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
+   </h2>
+   <p>
+      <a href="https://buymeacoffee.com/ashishadhin">
+         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashish" style="margin: 10px 0;" />
+      </a>
+   </p>
 </div>
 
-![Waves](https://raw.githubusercontent.com/ashish2026/ashish2026/24d7f5ab451e9b8ba5e2058bee10633c87f1514e/resource/wave_ashish.svg)
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
    <img src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg" alt="euler" style="width: 45%; margin: 10px;" />
    <img src="https://github.githubassets.com/assets/profile-first-repo-dark-25579720acb4.svg" alt="euler" style="width: 45%; margin: 10px;" />
 </div>
+
+<div align="center">
+   <img src="https://raw.githubusercontent.com/ashish2026/ashish2026/24d7f5ab451e9b8ba5e2058bee10633c87f1514e/resource/wave_ashish.svg" alt="Waves" width="100%" />
+</div>
+
 
