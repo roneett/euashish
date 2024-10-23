@@ -81,7 +81,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish2026&show_icons=true&locale=en" alt="GitHub Stats" />
+  
 </div>
 
 <br>
