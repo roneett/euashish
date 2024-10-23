@@ -96,8 +96,8 @@
 
 ![Waves](https://raw.githubusercontent.com/ashish2026/ashish2026/24d7f5ab451e9b8ba5e2058bee10633c87f1514e/resource/wave_ashish.svg)
 
-<div align="center">
-   <img src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg" alt="HTML" height="50%"/>
-   <img src="https://github.githubassets.com/assets/profile-first-repo-dark-25579720acb4.svg" alt="HTML" height="50%" />
- 
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+   <img src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg" alt="euler" style="width: 45%; margin: 10px;" />
+   <img src="https://github.githubassets.com/assets/profile-first-repo-dark-25579720acb4.svg" alt="euler" style="width: 45%; margin: 10px;" />
 </div>
+
