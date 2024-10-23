@@ -48,28 +48,30 @@
 
 <br>
 
-<h2 align="center">Languages I know</h2>
+
+<h2 align="center">Languages and Technologies I Know</h2>
 
 <p align="center">
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/HTML.png?raw=true" alt="HTML" />
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/CSS.png?raw=true" alt="CSS" />
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/Bootstrap.png?raw=true" alt="Bootstrap" />
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/Tailwind.png?raw=true" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" width="150" height="40" />
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" width="150" height="40" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" width="150" height="40" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="150" height="40" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/JavaScript.png?raw=true" alt="JavaScript" />
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/React.png?raw=true" alt="React" />
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/ReactRouterDom.png?raw=true" alt="React Router Dom" />
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/Firebase.png?raw=true" alt="Firebase" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="150" height="40" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" width="150" height="40" />
+  <img src="https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" width="150" height="40" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" width="150" height="40" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/Nodejs.png?raw=true" alt="Node.js" />
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/Express.png?raw=true" alt="Express" />
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/MongoDB.png?raw=true" alt="MongoDB" />
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/JWT.png?raw=true" alt="JWT" />
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" width="150" height="40" />
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" width="150" height="40" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="150" height="40" />
+  <img src="https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" width="150" height="40" />
 </p>
+
 
 <br>
 
