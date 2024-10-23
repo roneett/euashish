@@ -100,6 +100,7 @@
          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashish" style="margin: 10px 0;" />
       </a>
    </p>
+   <hr style="width: 50%; border: 1px solid #e1e4e8;" />
 </div>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
@@ -110,5 +111,3 @@
 <div align="center">
    <img src="https://raw.githubusercontent.com/ashish2026/ashish2026/24d7f5ab451e9b8ba5e2058bee10633c87f1514e/resource/wave_ashish.svg" alt="Waves" width="100%" />
 </div>
-
-
