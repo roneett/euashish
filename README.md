@@ -83,10 +83,10 @@ Here are some of my latest and active projects that showcase my skills and exper
 | Project Name                | Description                                | Live Link                                           | Source Code                                         |
 |-----------------------------|--------------------------------------------|----------------------------------------------------|----------------------------------------------------|
 | World Tour by React          | REST Country API tour using React.js       | [View Live](https://rest-country-api-tour.netlify.app/) | [GitHub](https://github.com/ashish2026/World-tour-by-react) |
-| BikerZone                    | Project about bike products                | [View Live](https://bike-view.netlify.app/)         | [GitHub](https://github.com/ashish2026/BikerZone)   |
-| TeaHouse                     | Tea house website                         | [View Live](https://bike-view.netlify.app/)         | [GitHub](https://github.com/ashish2026/TeaHouse)    |
-| DaisyMan                     | Project about flower sales or service      | [View Live](https://daisymen.netlify.app/)          | [GitHub](https://github.com/ashish2026/DaisyMan)    |
-| Bank Calculation            | Bank project showcasing recap of finances  | [View Live](https://bank-assess.netlify.app/)       | [GitHub](https://github.com/ashish2026/bap-er-bank-recap) |
+| BikerZone                    | Project about bike products by tailwind               | [View Live](https://bike-view.netlify.app/)         | [GitHub](https://github.com/ashish2026/BikerZone)   |
+| TeaHouse                     | Tea house website by tailwind                         | [View Live](https://bike-view.netlify.app/)         | [GitHub](https://github.com/ashish2026/TeaHouse)    |
+| DaisyMan                     | Tshirt sell project by tailwind.      | [View Live](https://daisymen.netlify.app/)          | [GitHub](https://github.com/ashish2026/DaisyMan)    |
+| Bank Calculation            | Bank project by JavaScript | [View Live](https://bank-assess.netlify.app/)       | [GitHub](https://github.com/ashish2026/bap-er-bank-recap) |
 
 </div>
 
