@@ -96,14 +96,6 @@ Here are some of my recent projects that showcase my skills and experience. More
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish2026&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
 
-<br>
-
-<div align="center">
-  
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish2026" alt="GitHub Streak" />
 </div>
