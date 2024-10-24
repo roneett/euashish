@@ -77,7 +77,7 @@
 <div align="center">
 # Featured Projects
 
-Here are some of my latest and active projects that showcase my skills and experience. More exciting projects will be added soon!
+Here are some of my recent projects that showcase my skills and experience. More exciting projects will be added soon!
 
 
 | Project Name                | Description                                | Live Link                                           | Source Code                                         |
