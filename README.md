@@ -75,7 +75,7 @@
 <br>
 
 <div align="center">
-# Featured Projects
+<h2 align="center">Featured Projects</h2>
 
 Here are some of my recent projects that showcase my skills and experience. More exciting projects will be added soon!
 
