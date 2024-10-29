@@ -83,11 +83,11 @@ Here are some of my recent projects that showcase my skills and experience. More
 
 | Project Name                | Description                                | Live Link                                           | Source Code                                         |
 |-----------------------------|--------------------------------------------|----------------------------------------------------|----------------------------------------------------|
-| World Tour by React          | REST Country API tour using React.js       | [View Live](https://rest-country-api-tour.netlify.app/) | [GitHub](https://github.com/ashish2026/World-tour-by-react) |
-| BikerZone                    | Project about bike products by tailwind               | [View Live](https://bike-view.netlify.app/)         | [GitHub](https://github.com/ashish2026/BikerZone)   |
-| TeaHouse                     | Tea house website by tailwind                         | [View Live](https://tea-shop-ashish.netlify.app/)         | [GitHub](https://github.com/ashish2026/TeaHouse)    |
-| DaisyMan                     | Tshirt sell project by tailwind.      | [View Live](https://daisymen.netlify.app/)          | [GitHub](https://github.com/ashish2026/DaisyMan)    |
-| Bank Calculation            | Bank project by JavaScript | [View Live](https://bank-assess.netlify.app/)       | [GitHub](https://github.com/ashish2026/bap-er-bank-recap) |
+| World Tour by React          | REST Country API tour using React.js       | [View Live](https://rest-country-api-tour.netlify.app/) | [GitHub](https://github.com/euler-ashish/World-tour-by-react) |
+| BikerZone                    | Project about bike products by tailwind               | [View Live](https://bike-view.netlify.app/)         | [GitHub](https://github.com/euler-ashish/BikerZone)   |
+| TeaHouse                     | Tea house website by tailwind                         | [View Live](https://tea-shop-ashish.netlify.app/)         | [GitHub](https://github.com/euler-ashish/TeaHouse)    |
+| DaisyMan                     | Tshirt sell project by tailwind.      | [View Live](https://daisymen.netlify.app/)          | [GitHub](https://github.com/euler-ashish/DaisyMan)    |
+| Bank Calculation            | Bank project by JavaScript | [View Live](https://bank-assess.netlify.app/)       | [GitHub](https://github.com/euler-ashish/bap-er-bank-recap) |
 
 </div>
 
