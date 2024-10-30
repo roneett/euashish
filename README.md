@@ -99,9 +99,7 @@ Here are some of my recent projects that showcase my skills and experience. More
 <br>
 
 <div align="center">
-
-![GitHub Stats](https://github-contributor-stats.vercel.app/api?username=euashish&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
+ 
 ![ASHISH's GitHub stats](https://github-readme-stats.vercel.app/api?username=euashish&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
 
 
