@@ -122,10 +122,19 @@ Here are some of my recent projects that showcase my skills and experience. More
    <hr style="width: 50%; border: 1px solid #e1e4e8;" />
 </div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-   <img src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg" alt="euler" style="width: 45%; margin: 10px;" />
-   <img src="https://github.githubassets.com/assets/profile-first-repo-dark-25579720acb4.svg" alt="euler" style="width: 45%; margin: 10px;" />
+<div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+
+   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 100%;">
+      <img src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg" alt="euler" style="width: 45%; margin: 10px;" />
+      <img src="https://github.githubassets.com/assets/profile-first-repo-dark-25579720acb4.svg" alt="euler" style="width: 45%; margin: 10px;" />
+   </div>
+   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 100%;">
+      <img src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg" alt="euler" style="width: 45%; margin: 10px;" />
+      <img src="https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg" alt="euler" style="width: 45%; margin: 10px;" />
+   </div>
+
 </div>
+
 
 <div align="center">
    <img src="https://raw.githubusercontent.com/euashish/euashish/24d7f5ab451e9b8ba5e2058bee10633c87f1514e/resource/wave_ashish.svg" alt="Waves" width="100%" />
